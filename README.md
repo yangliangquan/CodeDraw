@@ -1,0 +1,1 @@
+You can open the Wow.exe to start the programmm,it will use your camera to draw a code according to the picture.And you can press the "Q" while the programm running,it will save the final pic to temp.txt.
